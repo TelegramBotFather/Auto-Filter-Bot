@@ -156,6 +156,11 @@ sudo docker logs Auto-Filter-Bot
 
 <a href="https://www.buymeacoffee.com/hansakaanuhas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+* 💸 USDT (Solana Network) Address:
+```
+9bzgrqQNHYbkfguxFzyXsH9CaS6umrNBJ7X8UQq5L367
+```
+
 ## Thanks To
 * [Hydrogram](https://github.com/hydrogram/hydrogram) For Telegram MTProto API Framework
 * [Contributors](https://github.com/HA-Bots/Auto-Filter-Bot/graphs/contributors) For free helps
